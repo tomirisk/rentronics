@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "1",
+    "email": "apple@apple.com",
+    "password": "apple",
+    "firstName": "Tim",
+    "lastName": "Cook",
+    "userType": "buyer_seller",
+    "DOB": "1970-04-20",
+    "phoneNumber": "857-123-345",
+    "profilePicture": "https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880924/Boba-Stitch_800x800_SEPS-1000x1000.jpg",
+    "address": {
+      "line1": "123 Boylston St",
+      "line2": "Apt 1",
+      "city": "Boston",
+      "state": "MA",
+      "zipcode": "02115"
+    },
+    "reviews": [],
+    "listed_item_ids": [
+      "1",
+      "2"
+    ],
+    "cart": [],
+    "wishlist": []
+  },
+  {
+    "_id": "2",
+    "email": "samsung@samsung.com",
+    "password": "samsung",
+    "firstName": "KS",
+    "lastName": "Choi",
+    "userType": "buyer_seller",
+    "DOB": "1972-04-19",
+    "phoneNumber": "857-123-345",
+    "profilePicture": "https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880924/Boba-Stitch_800x800_SEPS-1000x1000.jpg",
+    "address": {
+      "line1": "1 Boylston St",
+      "line2": "10",
+      "city": "Boston",
+      "state": "MA",
+      "zipcode": "02114"
+    },
+    "reviews": [],
+    "listed_item": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "cart": [],
+    "wishlist": []
+  },
+  {
+    "_id": "3",
+    "email": "lg@lg.com",
+    "password": "lg",
+    "firstName": "William",
+    "lastName": "Cho",
+    "userType": "buyer_seller",
+    "DOB": "2022-04-20",
+    "phoneNumber": "857-123-345",
+    "address": {
+      "line1": "10 Huntington Ave",
+      "line2": "100",
+      "city": "Boston",
+      "state": "MA",
+      "zipcode": "02115"
+    },
+    "reviews": [],
+    "listed_item": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "cart": [],
+    "wishlist": []
+  },
+  {
+    "_id": "4",
+    "email": "test@gmail.com",
+    "password": "test12",
+    "firstName": "John",
+    "lastName": "Doe",
+    "userType": "buyer_seller",
+    "DOB": "2022-04-20",
+    "phoneNumber": "857-123-345",
+    "profilePicture": "https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880924/Boba-Stitch_800x800_SEPS-1000x1000.jpg",
+    "address": {
+      "line1": "55 Huntington Ave",
+      "line2": "12",
+      "city": "Boston",
+      "state": "MA",
+      "zipcode": "02115"
+    },
+    "reviews": [],
+    "listed_item": [
+      "1",
+      "2"
+    ],
+    "cart": [],
+    "wishlist": []
+  },
+  {
+    "_id": "5",
+    "email": "test2@gmail.com",
+    "password": "test12",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "userType": "buyer",
+    "DOB": "2022-04-20",
+    "phoneNumber": "857-123-345",
+    "profilePicture": "https://12ax7web.s3.amazonaws.com/accounts/1/products/1986199880924/Boba-Stitch_800x800_SEPS-1000x1000.jpg",
+    "address": {
+      "line1": "55 Huntington Ave",
+      "line2": "12",
+      "city": "Boston",
+      "state": "MA",
+      "zipcode": "02115"
+    },
+    "reviews": [],
+    "listed_item": [],
+    "cart": [],
+    "wishlist": []
+  }
+]
